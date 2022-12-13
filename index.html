@@ -28,12 +28,12 @@
                 }
     
                 if(document.getElementById('passbox').value === password) {
-                    setCookie("timestamp", true, 1);
+                    setCookie("canarycookie", true, 1);
                     window.location.href="./main.html";
                 }
             });
 
-            const checkCookie = getCookie("timestamp")
+            const checkCookie = getCookie("canarycookie")
 
             if(checkCookie === "true") {
                 window.location.href = "./main.html";
