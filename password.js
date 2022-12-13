@@ -1,4 +1,4 @@
-const password = hex2a("67616D6573393939736861726B");
+const password = hex2a("63616E617279313233");
 
 function hex2a(hexx) {
         var hex = hexx.toString(); //force conversion
