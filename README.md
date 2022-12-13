@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-schoolhub v5.4.1
+schoolhub canary v0.1.2
 </h1>
 
 <body>

@@ -1,6 +1,6 @@
 {
   "name": "schoolhub",
-  "version": "5.5.1-beta",
+  "version": "0.1.2-canary",
   "description": "The website for all of the easy-access school links! Or, to play some cool games!",
   "main": "app.js",
   "scripts": {
